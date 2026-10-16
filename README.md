@@ -12,5 +12,4 @@ Seru & Keren
 Gacor di Cluster 5 bersama Kak Arin & Kak Andrew
 
 ## Harapan Kuliah 
-Saya ingin menguasai Ilmu Sistem Tertanam, IoT, & Pemrograman untuk Teknologi yang lebih manfaat selama menjadi Mahasiswa di Teknik Komputer 
-
+Saya ingin menguasai Ilmu Sistem Tertanam, IoT, & Pemrograman untuk Teknologi yang lebih manfaat selama menjadi Mahasiswa di Teknik Komputer
